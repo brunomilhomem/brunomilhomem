@@ -18,6 +18,13 @@
 - :bar_chart: Data Viz: Power BI, OBI, and Looker.
 - :gear:  Version Control: Git Github
 
+
+:chart_with_upwards_trend: **Github Statistics**
+
+[![Bruno's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=brunomilhomem&theme=gruvbox)](https://github.com/brunomilhomem/github-readme-activity-graph)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomilhomem&count_private=true&show_icons=true&theme=gruvbox)
+
+
 ![](https://komarev.com/ghpvc/?username=brunomilhomem&color=green&style=flat-square&label=Total+Views)
 
 
