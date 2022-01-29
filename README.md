@@ -1,6 +1,6 @@
 📖 **About Me**
 
-- 👋 Hi, I’m Bruno Milhomem
+- 👋 Hi there! I’m Bruno Milhomem
 - :man_technologist: Passionate about data, learning and how we can make an impact.
 - 💼 Full-time Data Engineer at BRF Consulting
 - 🎓 Bachelor Information System's at Senac
@@ -17,6 +17,7 @@
 - :wrench:  Language: SQL, Python and R.
 - :bar_chart: Data Viz: Power BI, OBI, and Looker.
 - :gear:  Version Control: Git Github
+
 
 
 <!---
