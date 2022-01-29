@@ -1,5 +1,7 @@
 📖 **About Me**
 
+![](https://komarev.com/ghpvc/?username=brunomilhomem&color=green&style=flat-square&label=Total+Views)
+
 - 👋 Hi there! I’m Bruno Milhomem
 - :man_technologist: Passionate about data, learning and how we can make an impact.
 - 💼 Full-time Data Engineer at BRF Consulting
