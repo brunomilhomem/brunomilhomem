@@ -5,7 +5,7 @@
 - 💼 Full-time Analytics Engineer at BRF Consulting
 - 🎓 Bachelor Information System's at Senac
 - 🌱 I’m currently learning Python and Machine Learning
-- 📫 Contact me on [Gmail](bvmilhomem@gmail.com)
+- 📫 Contact me on Gmail [bvmilhomem@gmail.com]
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/bmilhomem/)
 
 
