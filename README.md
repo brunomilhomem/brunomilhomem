@@ -17,7 +17,7 @@
 - :cloud: AWS: Amazon S3
 - :wrench:  Language: SQL, Python and R.
 - :bar_chart: Data Viz: Power BI, OBI, and Looker.
-- :gear:  Version Control: Gi, Github
+- :gear:  Version Control: Git, Github
 
 
 :chart_with_upwards_trend: **Github Statistics**
