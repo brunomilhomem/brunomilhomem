@@ -15,8 +15,8 @@
 - 🛢  Database: Oracle and Snowflake Data Warehouse.
 - :hammer: ETL/ELT Tools: ODI, DBT and Fivetran.
 - :cloud: AWS: Amazon S3
-- :wrench:  Language: SQL, Python and R.
-- :bar_chart: Data Viz: Power BI, OBI, and Looker.
+- :wrench:  Language: SQL, Python
+- :bar_chart: Data Viz: Power BI, OBI.
 - :gear:  Version Control: Git, GitHub
 
 
