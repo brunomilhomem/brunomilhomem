@@ -2,7 +2,7 @@
 
 - 👋 Hi there! I’m Bruno Milhomem
 - :man_technologist: Passionate about data, learning and how we can make an impact.
-- 💼 Full-time Analytics Engineer at BRF Consulting
+- 💼 Full-time Data Engineer at BRF Consulting
 - 🎓 Bachelor Information System's at Senac
 - 🌱 I’m currently learning Python and Machine Learning
 - 📫 Contact me at Gmail [bvmilhomem@gmail.com]
