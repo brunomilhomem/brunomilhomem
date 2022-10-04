@@ -12,12 +12,13 @@
 :hammer_and_wrench: **Tech Stack**
 
 - :desktop_computer: Monitoring/Orchestration: Apache Airflow
-- 🛢  Database: Oracle and Snowflake Data Warehouse.
-- :hammer: ETL/ELT Tools: ODI, DBT and Fivetran.
+- 🛢  Database: Oracle and Snowflake Data Warehouse
+- :hammer: ETL/ELT Tools: ODI, DBT and Fivetran
 - :cloud: AWS: Amazon S3
 - :wrench:  Language: SQL, Python
-- :bar_chart: Data Viz: Power BI, OBI.
-- :gear:  Version Control: Git, GitHub
+- :bar_chart: Data Viz: Power BI, OBI
+- :gear: Version Control: Git, GitHub
+- :memo: Project Management: Jira & Confluence
 
 
 :chart_with_upwards_trend: **GitHub Statistics**
