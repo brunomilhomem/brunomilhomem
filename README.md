@@ -14,7 +14,7 @@
 - :desktop_computer: Monitoring/Orchestration: Apache Airflow
 - 🛢  Database: Snowflake Data Warehouse
 - :hammer: ETL/ELT Tools: DBT and Fivetran
-- :cloud: AWS: Amazon S3
+- :cloud: Cloud Computing: AWS
 - :wrench:  Language: SQL, Python
 - :bar_chart: Data Viz: Power BI, OAC
 - :gear: Version Control: Git, GitHub
