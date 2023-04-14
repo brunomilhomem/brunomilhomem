@@ -2,7 +2,6 @@
 
 - :wave: Hi there! I’m Bruno Milhomem
 - :man_technologist: Passionate about data, learning and how we can make an impact.
-- :house_with_garden: Working from home.
 - :briefcase: Full-time Data Engineer at BRF Consulting
 - :mortar_board: Bachelor in Information System's at Senac
 - :mortar_board: Graduate Certificate in Artificial Intelligence & Machine Learning at Lambton College
