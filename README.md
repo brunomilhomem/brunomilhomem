@@ -1,11 +1,13 @@
 📖 **About Me**
 
-- 👋 Hi there! I’m Bruno Milhomem
+- :wave: Hi there! I’m Bruno Milhomem
 - :man_technologist: Passionate about data, learning and how we can make an impact.
-- 💼 Full-time Data Engineer at BRF Consulting
-- 🎓 Bachelor Information System's at Senac
-- 🌱 I’m currently learning Python and Machine Learning
-- 📫 Contact me at Gmail [bvmilhomem@gmail.com]
+- :house_with_garden: Working from home.
+- :briefcase: Full-time Data Engineer at BRF Consulting
+- :mortar_board: Bachelor in Information System's at Senac
+- :mortar_board: Graduate Certificate in Artificial Intelligence & Machine Learning at Lambton College
+- :seedling: I’m currently learning Python and Machine Learning
+- :mailbox_with_mail: Contact me at Gmail [bvmilhomem@gmail.com]
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/bmilhomem/)
 
 
