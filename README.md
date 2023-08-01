@@ -18,7 +18,7 @@
 - :cloud: Cloud Computing: AWS
 - :wrench:  Language: SQL, Python
 - :bar_chart: Data Viz: Power BI, OAC
-- :gear: Version Control: Git, GitHub, Bitbucket
+- :gear: Version Control: Git, GitHub & Bitbucket
 - :memo: Project Management: Jira & Confluence
 
 
